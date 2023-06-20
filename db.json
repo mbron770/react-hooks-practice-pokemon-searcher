@@ -1340,6 +1340,56 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "key": "100",
+      "name": "New Card",
+      "hp": "100",
+      "sprites": {
+        "front": "https://lh3.google.com/u/0/ogw/AOLn63HSl_9MydP40D-SODNIS26nGFrt3SEME7jBlO5H=s32-c-mo",
+        "back": "https://reinvent.awsevents.com/?sc_icampaign=event_reinvent-registration-open-signin-a&sc_ichannel=ha&sc_icontent=awssm-1568_event&sc_iplace=signin&trk=e8c41a95-ff61-484f-92ba-520c70fa0c64~ha_awssm-1568_event"
+      },
+      "id": 151
+    },
+    {
+      "key": "1000",
+      "name": "New Card1",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://lh3.google.com/u/0/ogw/AOLn63HSl_9MydP40D-SODNIS26nGFrt3SEME7jBlO5H=s32-c-mo",
+        "back": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"
+      },
+      "id": 152
+    },
+    {
+      "key": "1000",
+      "name": "New Card1",
+      "hp": "1000",
+      "sprites": {
+        "front": "https://lh3.google.com/u/0/ogw/AOLn63HSl_9MydP40D-SODNIS26nGFrt3SEME7jBlO5H=s32-c-mo",
+        "back": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"
+      },
+      "id": 153
+    },
+    {
+      "key": "e",
+      "name": "e",
+      "hp": "e",
+      "sprites": {
+        "front": "e",
+        "back": "e"
+      },
+      "id": 154
+    },
+    {
+      "key": "egg",
+      "name": "egg",
+      "hp": "egg",
+      "sprites": {
+        "front": "egg",
+        "back": "egg"
+      },
+      "id": 155
     }
   ]
 }
